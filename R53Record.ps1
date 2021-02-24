@@ -20,7 +20,7 @@
   
 .NOTES
   Author:         	Jorge Ramos (https://github.com/jramos78/PowerShell)
-  Updated on:  		  Feb. 23, 2021
+  Updated on:  		Feb. 23, 2021
   Purpose/Change: 	Modified script to support CNAME records 
   
 .EXAMPLE
